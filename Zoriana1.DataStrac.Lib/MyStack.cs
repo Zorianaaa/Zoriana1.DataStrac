@@ -1,11 +1,11 @@
 ﻿namespace Zoriana1.DataStrac.Lib
 {
-    public class Stack
+    public class MyStack
     {
         private object[] _items;
         private int _count;
 
-        public Stack(int capacity = 4)
+        public MyStack(int capacity = 4)
         {
             _items = new object[capacity];
             _count = 0;
