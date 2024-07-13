@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoriana1.DataStrac", "Zoriana1.DataStrac\Zoriana1.DataStrac.csproj", "{4AC5AEE8-7DCA-4C28-912D-24644C504092}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoriana1.DataStrac.Lib", "Zoriana1.DataStrac.Lib\Zoriana1.DataStrac.Lib.csproj", "{8077FB1A-85D3-47DC-878C-8D4DA400A8C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4AC5AEE8-7DCA-4C28-912D-24644C504092}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AC5AEE8-7DCA-4C28-912D-24644C504092}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AC5AEE8-7DCA-4C28-912D-24644C504092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8077FB1A-85D3-47DC-878C-8D4DA400A8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8077FB1A-85D3-47DC-878C-8D4DA400A8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8077FB1A-85D3-47DC-878C-8D4DA400A8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8077FB1A-85D3-47DC-878C-8D4DA400A8C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
