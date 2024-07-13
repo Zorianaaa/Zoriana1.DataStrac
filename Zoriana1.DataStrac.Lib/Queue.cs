@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Zoriana1.DataStrac.Lib.Interfaces;
 
 namespace Zoriana1.DataStrac.Lib
 {
-    public class Queue
+    public class Queue : IQueue 
     {
         private object[] _items;
         private int _head;
