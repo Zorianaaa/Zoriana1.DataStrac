@@ -1,6 +1,8 @@
-﻿namespace Zoriana1.DataStrac.Lib
+﻿using Zoriana1.DataStrac.Lib.Interfaces;
+
+namespace Zoriana1.DataStrac.Lib
 {
-    public class MyStack
+    public class MyStack : IStack
     {
         private object[] _items;
         private int _count;
