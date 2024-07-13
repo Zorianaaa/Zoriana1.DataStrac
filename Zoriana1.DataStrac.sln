@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoriana1.DataStrac", "Zoriana1.DataStrac\Zoriana1.DataStrac.csproj", "{4AC5AEE8-7DCA-4C28-912D-24644C504092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC5AEE8-7DCA-4C28-912D-24644C504092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC5AEE8-7DCA-4C28-912D-24644C504092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC5AEE8-7DCA-4C28-912D-24644C504092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC5AEE8-7DCA-4C28-912D-24644C504092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10795AAF-301C-4583-9A25-B2FE464EA11C}
+	EndGlobalSection
+EndGlobal
